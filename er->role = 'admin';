@@ -1,0 +1,12 @@
+[90m= [39m[34;4mApp\Models\User[39;24m {#6025
+    [34mid[39m: [35m2[39m,
+    [34mname[39m: "[32mtest test[39m",
+    [34memail[39m: "[32mtest@gmail.com[39m",
+    [34memail_verified_at[39m: [36mnull[39m,
+    #[33mpassword[39m: "[32m$2y$12$zZW.ihKPjAjLf2IuvLOgH.GslHBC6PXVU.1svGhkDfNuy8cax.gzO[39m",
+    #[33mremember_token[39m: [36mnull[39m,
+    [34mcreated_at[39m: "[32m2024-09-11 14:38:14[39m",
+    [34mupdated_at[39m: "[32m2024-09-11 14:38:14[39m",
+    [34mrole[39m: "[32muser[39m",
+  }
+
